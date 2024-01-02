@@ -1,5 +1,7 @@
 ## Course: Computer workshop on statistical data analysis/Module2/Year4
 
+During this laboratory work, I repeated all the tasks in preliminary information and solving independent works.
+
 ### Laboratory work №1: Julia. Installation and configuration. Basic principles
 The main goal of this work is to prepare a workspace and tools for
 working with the Julia programming language, and use the simplest examples to learn
